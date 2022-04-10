@@ -12,7 +12,7 @@ Partindo dessa premissa, criamos a empresa Mechanics Guide Chanel (MECG) e nomea
 * Leonardo Araujo de Oliveira
 * Maria Luisa Couto
 * Matheus Gabriel Gonçalves Cunha de Oliveira
-* Mayara Kimura
+* Mayara Aya Kimura
 * Víctor Henrique Cutrim Silva
 
 ## Professores responsáveis
