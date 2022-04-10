@@ -10,7 +10,7 @@ Partindo dessa premissa, criamos a empresa Mechanics Guide Chanel (MECG) e nomea
 
 * Heitor Freitas Fernandes
 * Leonardo Araujo de Oliveira
-* Maria Luisa Couto
+* Maria Luisa Couto Fernandes
 * Matheus Gabriel Gonçalves Cunha de Oliveira
 * Mayara Aya Kimura
 * Víctor Henrique Cutrim Silva
