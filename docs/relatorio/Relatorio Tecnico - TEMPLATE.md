@@ -184,7 +184,8 @@ prioridades.
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin e Comunicação | Discord | Sem link de acesso | 
+|Processo de Design Thinkgin | Discord | Sem link de acesso |
+|Comunicação | Discord | Sem link de acesso | 
 |Repositório de código | GitHub | https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-matheusfnl.git | 
 |Protótipo Interativo | Figma | https://www.figma.com/file/FLrGJQZYwt2yhz74lpSFdt/Games-Guide-Prototype-(Copy)?node-id=0%3A1 | 
 |Editor de código | Visual Studio Code | Sem link de acesso | 
@@ -193,11 +194,12 @@ prioridades.
 
 A ferramenta de controle de versão escolhida foi o próprio Git, sendo o próprio github o responsável pela hospedagem do repositório. 
 
-Por conta da sprint 1 ser mais "simples" em relação ao código do que as outras, foi designado apenas uma pessoa para enviar o código, portanto não foi necessário a definição de nenhum cargo e nenhuma tag dentro do projeto.
+Por conta da sprint 1 ser mais "simples" em relação ao código do que as outras, foi designado apenas uma pessoa para enviar ele ao repositório, portanto não foi necessário a definição de nenhum cargo e nenhuma tag dentro do projeto.
 
 Em relação as outras sprints foi decidido o uso das seguintes tags:
 - bugfix - funcionalidade com problemas.
-- aprimorar - funcionalidade precisa ser melhorada. 
+- aprimorar-aparencia - funcionalidade precisa ser melhorada visualmente.
+- aprimorar-codigo - funcionalidade precisa ser melhorada logicamente. 
 - feature - nova funcionalidade a ser implementada.
 
 Em relação às branchs, seguiremos o padrão estabelecido.
