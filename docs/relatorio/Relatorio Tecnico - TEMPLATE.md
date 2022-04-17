@@ -1,21 +1,20 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Games Guide
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Sistemas de Informaçao
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+- Heitor Freitas Fernandes
+- Leonardo Araujo de Oliveira
+- Maria Luisa Couto Fernandes
+- Matheus Gabriel Gonçalves Cunha de Oliveira
+- Mayara Aya Kimura
+- Víctor Henrique Cutrim Silva
 
 # Estrutura do Documento
 
@@ -58,70 +57,25 @@
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+A grande variedade de jogos disponíveis atualmente é maravilhosa, não obstante pode ser ao 
+mesmo tempo bem assustadora, principalmente para pessoas que estão indecisas sobre com qual título, 
+dentre os vários presentes no mercado, irão gastar seu tempo e dinheiro.  
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Idealizamos uma aplicação web, um site que reunisse as principais recomendações de jogos em 
+alta, separando-os por categoria, trazendo informações gerais sobre cada título ofertado, além de suas 
+especificações e requisitos de sistema. Dessa forma, poderiamos tranquilizar o futuro usuário, pois o 
+mesmo saberia se o jogo escolhido funcionaria da forma coesa em sua máquina.
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O público-alvo principal seria jovens de 12 à 25 anos. O projeto do site Games Guide (GG!) é sobre um espaço voltado para jogos de mídias digitais, onde o público alvo teria acesso a recomendações sobre quais jogos jogar de acordo com suas respectivas avaliações, além de especificações de requisitos mínimos de sistema.
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
- 
 # Especificações do Projeto
 
 ......  COLOQUE AQUI O SEU TEXTO ......
@@ -132,8 +86,26 @@
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+==imagem da persona aqui==
 
+*O que ele pensa e sente?* Ele quer ser melhor em jogos. O que mais o preocupa é que, apesar 
+de  possuir  uma  excelente  carreira,  não  consegue  se  divertir  o  suficiente  por  não  ser  um  bom 
+gamer.
+*O que ele escuta?* Apesar de estar feliz e relativamente satisfeito com a sua vida, as pessoas ao 
+seu redor esperam que ele saia mais de casa, faça mais amigos e vá “curtir o momento”, 
+visitando novos lugares, indo para festas, conhecendo novas pessoas etc.
+*O que ele vê?* Prefere interagir com informações de cunho tecnológico, não se atentando muito 
+às notícias sobre atualidade e possui uma vida social “pequena”.
+*O que ele fala e faz?* Fora do seu círculo profissional, gosta de vestir roupas com estamparias 
+de jogos e animes. É um(a) ¿pessoa? ¿sapo? tranquila(o), procura não expressar muito quando 
+está chateado/estressado, tenta ao máximo transmitir essa sensação às pessoas ao seu redor.
+*Quais  são  as  dores?*  Ele  se  chateia  muito  por  não  conseguir  jogar  bem,  apesar  de  desde 
+criança ter contato com o “mundo tecnológico”. Sem falar sobre hobbies, um de seus maiores 
+medos é se encontrar em uma profissão onde não exerça o que realmente ama: 
+desenvolvimento, e onde também não possa mostrar suas competências.
+*Quais são os objetivos?* Ele almeja sempre o sucesso profissional. Consegue se enturmar bem 
+com  seus  colegas  de  equipe,  pretende  ter  uma  estabilidade  financeira  cada  vez  maior  para 
+conhecer alguns países que possuem cultura gamer/geek.
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
 > você deve ser enumerar e descrever precisamente e de forma
@@ -150,13 +122,6 @@
 > - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
 > - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
 > 
-> 
-> **Exemplo de Persona**
-> 
-> ![Exemplo de Persona](imaages/../images/persona.png)
-> 
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
-
 
 ## Histórias de Usuários
 
@@ -186,38 +151,22 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+|RF-001| Nosso site oferecerá recomendações de jogos | ALTA | 
+|RF-002| Todos os jogos terão avaliações de acordo com uma média retirada das principais mídias de 
+crítica Geek. | ALTA |
+|RF-003| Nosso site oferecerá recomendações de peças para computador de acordo com cada jogo | ALTA | 
+|RF-004| Nossos usuários terão a opção de se cadastrar no site, com o intuito de receber benefícios | MÉDIA | 
+|RF-005| Nossos usuários poderão filtrar os jogos por categorias | ALTA | 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
+|RNF-001| Por ser uma aplicação web, o sistema deve ser multiplataforma – Windows, Linux e macOs | ALTA | 
+|RNF-002| O seu desenvolvimento dese ser em linguagem HTML, CSS e JavaScript | ALTA | 
+|RNF-003| O site deve ser fluido e dinâmico | ALTA | 
+|RNF-004| O site deve ser claro para todos os usuários | ALTA | 
+|RNF-005| O site deve ser compatível com computadores, smartphones e televisões  | ALTA | 
 
 ## Restrições
 
@@ -248,41 +197,12 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## User Flow
 
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
-
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
-> mapear todo fluxo de telas do site ou app. Essa técnica funciona
-> para alinhar os caminhos e as possíveis ações que o usuário pode
-> fazer junto com os membros de sua equipe.
->
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
->
-> **Exemplo**:
-> 
-> ![Exemplo de UserFlow](images/userflow.jpg)
+![Exemplo de UserFlow](images/userflow.png)
 
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
-
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+![Exemplo de Wireframe](images/wireframe.png)
 
 
 # Metodologia
