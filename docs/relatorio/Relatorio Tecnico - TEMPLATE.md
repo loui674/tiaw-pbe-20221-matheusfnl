@@ -207,7 +207,20 @@ prioridades.
 
 ## Controle de Versão
 
-texto explicando as parada
+A ferramenta de controle de versão escolhida foi o próprio Git, sendo o próprio github o responsável pela hospedagem do repositório. 
+
+Por conta da sprint 1 ser mais "simples" em relação ao código do que as outras, foi designado apenas uma pessoa para dar enviar o código, portanto não foi necessário a definição de nenhum cargo e nenhuma tag dentro do projeto.
+
+Em relação as outras sprints foi decidido o uso das seguintes tags:
+- bugfix - funcionalidade com problemas.
+- aprimorar - funcionalidade precisa ser melhorada. 
+- feature - nova funcionalidade a ser implementada.
+
+Em relação às branchs, seguiremos o padrão estabelecido.
+- master - versão estável já testada do software
+- unstable - versão já testada do software, porém instável
+- testing - versão em testes do software
+- dev - versão de desenvolvimento do software
 
 # **############## SPRINT 1 ACABA AQUI #############**
 
