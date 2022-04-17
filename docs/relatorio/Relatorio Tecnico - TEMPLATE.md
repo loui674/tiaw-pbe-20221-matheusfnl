@@ -55,8 +55,6 @@ Sistemas de Informaçao
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 A grande variedade de jogos disponíveis atualmente é maravilhosa, não obstante pode ser ao 
 mesmo tempo bem assustadora, principalmente para pessoas que estão indecisas sobre com qual título, 
 dentre os vários presentes no mercado, irão gastar seu tempo e dinheiro.  
@@ -88,22 +86,27 @@ O público-alvo principal seria jovens de 12 à 25 anos. O projeto do site Games
 
 ==imagem da persona aqui==
 
-*O que ele pensa e sente?* Ele quer ser melhor em jogos. O que mais o preocupa é que, apesar 
+**O que ele pensa e sente?** Ele quer ser melhor em jogos. O que mais o preocupa é que, apesar 
 de  possuir  uma  excelente  carreira,  não  consegue  se  divertir  o  suficiente  por  não  ser  um  bom 
 gamer.
-*O que ele escuta?* Apesar de estar feliz e relativamente satisfeito com a sua vida, as pessoas ao 
+
+**O que ele escuta?** Apesar de estar feliz e relativamente satisfeito com a sua vida, as pessoas ao 
 seu redor esperam que ele saia mais de casa, faça mais amigos e vá “curtir o momento”, 
 visitando novos lugares, indo para festas, conhecendo novas pessoas etc.
-*O que ele vê?* Prefere interagir com informações de cunho tecnológico, não se atentando muito 
+
+**O que ele vê?** Prefere interagir com informações de cunho tecnológico, não se atentando muito 
 às notícias sobre atualidade e possui uma vida social “pequena”.
-*O que ele fala e faz?* Fora do seu círculo profissional, gosta de vestir roupas com estamparias 
+
+**O que ele fala e faz?** Fora do seu círculo profissional, gosta de vestir roupas com estamparias 
 de jogos e animes. É um(a) ¿pessoa? ¿sapo? tranquila(o), procura não expressar muito quando 
 está chateado/estressado, tenta ao máximo transmitir essa sensação às pessoas ao seu redor.
-*Quais  são  as  dores?*  Ele  se  chateia  muito  por  não  conseguir  jogar  bem,  apesar  de  desde 
+
+**Quais  são  as  dores?**  Ele  se  chateia  muito  por  não  conseguir  jogar  bem,  apesar  de  desde 
 criança ter contato com o “mundo tecnológico”. Sem falar sobre hobbies, um de seus maiores 
 medos é se encontrar em uma profissão onde não exerça o que realmente ama: 
 desenvolvimento, e onde também não possa mostrar suas competências.
-*Quais são os objetivos?* Ele almeja sempre o sucesso profissional. Consegue se enturmar bem 
+
+**Quais são os objetivos?** Ele almeja sempre o sucesso profissional. Consegue se enturmar bem 
 com  seus  colegas  de  equipe,  pretende  ter  uma  estabilidade  financeira  cada  vez  maior  para 
 conhecer alguns países que possuem cultura gamer/geek.
 
@@ -129,19 +132,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+|Usuário do sistema  | Site de recomendações de jogos com reviews sinceras sobre os jogos | Encontrar o que jogar mais rapidamente e com base em avaliações |
+|Usuário do sistema  | Site que mostrasse as  configurações necessarias para cada jogo | Não perder tempo procurando os requisitos de cada jogo |
+|Usuário do sistema  | Achar jogos com base na categoria | Encontrar jogos que gosta mais rapidamente |
 
 ## Requisitos
 
@@ -152,8 +145,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| Nosso site oferecerá recomendações de jogos | ALTA | 
-|RF-002| Todos os jogos terão avaliações de acordo com uma média retirada das principais mídias de 
-crítica Geek. | ALTA |
+|RF-002| Todos os jogos terão avaliações de acordo com uma média retirada das principais mídias de crítica Geek | ALTA | 
 |RF-003| Nosso site oferecerá recomendações de peças para computador de acordo com cada jogo | ALTA | 
 |RF-004| Nossos usuários terão a opção de se cadastrar no site, com o intuito de receber benefícios | MÉDIA | 
 |RF-005| Nossos usuários poderão filtrar os jogos por categorias | ALTA | 
@@ -177,15 +169,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
 
-
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
-
 # Projeto de Interface
 
 ......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
@@ -203,7 +186,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 ## Wireframes
 
 ![Exemplo de Wireframe](images/wireframe.png)
-
 
 # Metodologia
 
@@ -227,14 +209,17 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Durante toda a duração da primeira sprint, todos os integrantes do grupo fizeram as tarefas em conjunto.
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+- Ideação do que seria necessário para o site
+- Entrevistas com pelo menos 4 pessoas para cada integrante
+- Confecção da Matriz CSD
+- Confecção das escalas de cinza, sendo a melhor decidida por meio de votação
+- Encontros após as aulas e Calls realizadas pelo discord, com o intuito de retirar dúvidas e organizar as atividades
 
+É válido ressaltar que a partir das próximas sprints, utilizaremos a plataforma de gestão 
+Trello, para dividir nossas tarefas e controlar de forma mais eficiente nossas atividades e 
+prioridades.
 
 ## Ferramentas
 
@@ -242,33 +227,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
-
->
-> Liste as ferramentas empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
-> As ferramentas empregadas no projeto são:
-> 
-> - Editor de código.
-> - Ferramentas de comunicação
-> - Ferramentas de diagramação
-> - Plataforma de hospedagem
-> 
-> O editor de código foi escolhido porque ele possui uma integração com o
-> sistema de versão. As ferramentas de comunicação utilizadas possuem
-> integração semelhante e por isso foram selecionadas. Por fim, para criar
-> diagramas utilizamos essa ferramenta por melhor captar as
-> necessidades da nossa solução.
-> 
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
+|Processo de Design Thinkgin e Comunicação | Discord | Sem link de acesso | 
+|Repositório de código | GitHub | https://github.com/PBE-TIAW-2022-1/tiaw-pbe-20221-matheusfnl.git | 
+|Protótipo Interativo | Figma | https://www.figma.com/file/FLrGJQZYwt2yhz74lpSFdt/Games-Guide-Prototype-(Copy)?node-id=0%3A1 | 
+|Editor de código | Visual Studio Code | Sem link de acesso | 
 
 ## Controle de Versão
 
