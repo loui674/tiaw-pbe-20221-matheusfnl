@@ -201,6 +201,9 @@ Em relação as outras sprints foi decidido o uso das seguintes tags:
 - aprimorar-aparencia - funcionalidade precisa ser melhorada visualmente.
 - aprimorar-codigo - funcionalidade precisa ser melhorada logicamente. 
 - feature - nova funcionalidade a ser implementada.
+- prioridade-baixa - funcionalidade com prioridade baixa
+- prioridade-media - funcionalidade com prioridade média
+- prioridade-alta - funcionalidade com prioridade alta
 
 Em relação às branchs, seguiremos o padrão estabelecido.
 - master - versão estável já testada do software
