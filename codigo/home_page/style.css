@@ -1,0 +1,16 @@
+.main_content {
+  margin: 120px 140px;
+}
+
+.img_persona {
+  width: 200px;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+p {
+  font-size: 23px;
+  font-weight: bold;
+}
