@@ -1,0 +1,22 @@
+.title {
+  margin-top: 40px;
+}
+
+.title h1 {
+  font-size: 55px;
+}
+
+.about_us_content {
+  margin: 30px 110px;
+  padding: 50px 40px;
+  background-color: rgb(78, 78, 78);
+  color: white;
+}
+
+.imagem_sobre_nos {
+  width: 190px;
+}
+
+.imagem_centro {
+  width: 600px
+}
