@@ -20,3 +20,21 @@
 .imagem_centro {
   width: 600px
 }
+
+.btn-comece-aqui {
+  color: white;
+  padding: 7px 20px 0;
+  margin: 40px 0 0 120px;
+  border: 1px solid transparent;
+  height: 45px;
+  text-decoration: none;
+  background-color: rgb(104, 104, 104);
+  cursor: pointer;
+}
+
+.btn-comece-aqui:hover {
+  color: white;
+  background-color: rgb(133, 133, 133);
+  border: 1px solid transparent;
+  text-decoration: none;
+}
